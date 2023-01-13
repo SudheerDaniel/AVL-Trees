@@ -1,14 +1,3 @@
-//---------------------------------------------------------
-// Name: Sudheer Daniel Meghavaram
-// Project Name: Project4.cpp
-// Here we have intialized an AVLTreeNode() to create a tree and we have given some variables key and value and after the we have added some more variables such as
-// height and also given two pointers such as left and right, to insert new elements into the tree, so finally we need to use the recursion method to create the  AVL Tree 
-//----------------------------------------------------------
-
-
-
-
-
 #include "AVLTree.h"
 using namespace std;
 
